@@ -6,9 +6,9 @@
 | :--- | :--- | :--- | :--- |
 | **Complete** | PHP, MySQL, Bootstrap, jQuery | Full-Stack Web App | **ISGA Academic Project** |
 
-[![GitHub last commit](https://img.shields.io/github/last-commit/nveyounes/OnlinePizzaDelivery?style=for-the-badge&color=2ecc71)](https://github.com/nveyounes/OnlinePizzaDelivery)
+[![GitHub last commit](https://img.shields.io/github/last-commit/nveyounes/Online-Pizza-Delivery-PHP-MySQL-?style=for-the-badge&color=2ecc71)](https://github.com/nveyounes/Online-Pizza-Delivery-PHP-MySQL-)
 [![License](https://img.shields.io/github/license/nveyounes/Online-Pizza-Delivery-PHP-MySQL-?style=for-the-badge&color=3498db)](LICENSE)
-[![Repo Size](https://img.shields.io/github/repo-size/nveyounes/OnlinePizzaDelivery?style=for-the-badge&color=9b59b6)](https://github.com/nveyounes/OnlinePizzaDelivery)
+[![Repo Size](https://img.shields.io/github/repo-size/nveyounes/Online-Pizza-Delivery-PHP-MySQL-?style=for-the-badge&color=9b59b6)](https://github.com/nveyounes/Online-Pizza-Delivery-PHP-MySQL-)
 
 ---
 
